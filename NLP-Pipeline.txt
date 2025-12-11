@@ -1,6 +1,4 @@
-# Generative-AI
-
-Generative AI PipeLine
+Generative AI PipeLine 
 
 1. Data Acqusition
 2. Data Preparation
@@ -10,13 +8,13 @@ Generative AI PipeLine
 6. Deployment
 7. Monitoring and model updating
 
+
 # DATA ACQUSITION
-
-->Available Data (csv, txt, doc, xlsx)
-->Other Data (DB, Internet, API, scraping)
-->No Data (Create your own Data)
-.LLM
-
+   ->Available Data (csv, txt, doc, xlsx)
+   ->Other Data (DB, Internet, API, scraping)
+   ->No Data (Create your own Data)
+              .LLM 
+              
         Note: If you have less Data use DATA AUGUMENTATION
             ->Replace With synonyms (Data Scientist / AI Engineer)
             ->Biagram FLIP (Iam Sathvika / My Name is Sathvika/ Sathvika is my name)
