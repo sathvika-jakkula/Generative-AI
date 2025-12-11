@@ -12,13 +12,13 @@ Generative AI PipeLine
 
 # DATA ACQUSITION
 
-->Available Data (csv, txt, doc, xlsx)
-->Other Data (DB, Internet, API, scraping)
-->No Data (Create your own Data)
-.LLM
+Available Data (csv, txt, doc, xlsx)
+Other Data (DB, Internet, API, scraping)
+No Data (Create your own Data)
+LLM
 
         Note: If you have less Data use DATA AUGUMENTATION
-            ->Replace With synonyms (Data Scientist / AI Engineer)
-            ->Biagram FLIP (Iam Sathvika / My Name is Sathvika/ Sathvika is my name)
-            ->Back Transplate (Convert into Different languages and to the parent language so the sentences will change but the meaning will same)(use Google Translate)
-            ->Add Additional Noise
+            1.Replace With synonyms (Data Scientist / AI Engineer)
+            2.Biagram FLIP (Iam Sathvika / My Name is Sathvika/ Sathvika is my name)
+            3.Back Transplate (Convert into Different languages and to the parent language so the sentences will change but the meaning will same)(use Google Translate)
+            4.Add Additional Noise
