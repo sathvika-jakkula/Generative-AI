@@ -12,9 +12,9 @@ Generative AI PipeLine
 
 # DATA ACQUSITION
 
-Available Data (csv, txt, doc, xlsx)
-Other Data (DB, Internet, API, scraping)
-No Data (Create your own Data)
+Available Data (csv, txt, doc, xlsx),
+Other Data (DB, Internet, API, scraping),
+No Data (Create your own Data),
 LLM
 
         Note: If you have less Data use DATA AUGUMENTATION
